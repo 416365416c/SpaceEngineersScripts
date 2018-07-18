@@ -1,0 +1,1 @@
+Visual Studio required for the projects using https://github.com/malware-dev/MDK-SE
